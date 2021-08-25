@@ -19,10 +19,10 @@ dev_dependencies:
   cloud_firestore: ^0.16.0+1
   http: ^0.12.0
   cupertino_icons: ^1.0.2
-  flutter_blue: ^0.7.3
+  flutter_blue: ^0.8.0
   intl: ^0.16.1
   connectivity: ^2.0.2
-  cron: 0.2.4
+  cron: 0.3.0
   flutter_ringtone_player: 2.0.0
   wakelock: ^0.2.1+1
   bloc: ^6.1.1
